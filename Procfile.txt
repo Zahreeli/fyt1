@@ -1,1 +1,1 @@
-web: python ASIM.py
+web: python main.py
